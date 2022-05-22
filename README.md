@@ -35,7 +35,7 @@
   
   <p align="center">
   <img 
-    width="1000"
+    width="800"
     height="300"
     src="https://rayantonius.com/wp-content/uploads/2021/03/image-2.png"
   >
